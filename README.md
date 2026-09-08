@@ -15,7 +15,7 @@ After graduating with my Associate's Degree, I want to apply myself completely t
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| AWS Pentest Lab | **[View Interactive Penetration Test Report](labs/pentest-report/proof-page-1.html)**|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]

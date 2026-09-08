@@ -15,7 +15,7 @@ After graduating with my Associate's Degree, I want to fully commit to any role 
 
 
 ## Tools
-
+<div></div>
     
 
 
@@ -25,7 +25,7 @@ After graduating with my Associate's Degree, I want to fully commit to any role 
 
 
 ## Certifications
-
+<div></div>
 
 ## Projects
 - AWS sandbox Penetration test

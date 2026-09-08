@@ -20,7 +20,7 @@ After graduating with my Associate's Degree, I want to fully commit to any role 
 
 
 ### Network
-<div>
+<div></div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 
 

@@ -15,17 +15,15 @@ After graduating with my Associate's Degree, I want to fully commit to any role 
 
 
 ## Tools
-<div></div>
     
 
 
 ### Network
-<div></div>
+<div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-
+</div>
 
 ## Certifications
-<div></div>
 
 ## Projects
 - AWS sandbox Penetration test

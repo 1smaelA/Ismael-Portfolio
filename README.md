@@ -9,8 +9,6 @@ After graduating with my Associate's Degree, I want to fully commit to any role 
 ## Skills
 
 | Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-
 
 |Mock Incident Response Protocol | **[View Interactive IRP](Cockroach_IRP/proof-page-1.html)** |
 | AWS Pentest Lab | **[View Interactive Penetration Test Report](labs/pentest-report/proof-page-1.html)**|

@@ -4,7 +4,7 @@
 I am a recent Cybersecurity graduate with a love and interest in expanding, fortifying, and applying my skills.
 
 ## Future Goal
-After graduating with my Associate's Degree, I want to fully commit to any role I take until I become a Penetration Tester.
+After graduating with my Associate's Degree, my ultimate goal is becoming a Penetration Tester.
 
 ## Skills
 

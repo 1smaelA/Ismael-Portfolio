@@ -24,6 +24,9 @@ After graduating with my Associate's Degree, I want to fully commit to any role 
 </div>
 
 ## Certifications
+<div>
+    <img src="https://img.shields.io/badge/Security+-CompTIA%20Security+-red?logo=compTIA&logoColor=white" />
+</div>
 
 ## Projects
 - AWS sandbox Penetration test
